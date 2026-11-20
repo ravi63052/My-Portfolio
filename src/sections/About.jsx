@@ -1,0 +1,3 @@
+export default function About() {
+  return <section id="about" className="about-section"><div className="about-sticky"><div className="shell about-layout"><div className="about-copy"><span className="eyebrow">BEHIND THE BUILD</span><h2 data-words>Curious mind.<br/><span>Connected thinking.</span></h2><div className="about-story"><p data-lines>I connect thoughtful React interfaces, dependable backend systems, and Generative AI to build useful applications.</p><p data-lines>I’m training in AI-Integrated Full Stack Java Development at TalentSprint, part of Accenture.</p></div><a className="underlined-link" href="#journey">Explore my journey</a></div><div className="about-scene-space" aria-hidden="true"/></div></div></section>;
+}
